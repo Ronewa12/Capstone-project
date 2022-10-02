@@ -1,13 +1,4 @@
 # Capstone-Project 
-Problem Statement:
-
-Despite extensive investigations of the genetic mechanism of Schizophrenia, there
-has not been a clear indication of the known underlying genetic mechanism of
-schizophrenia in the general population worldwide. Even though some studies
-suggest an underlying gene expression disturbance in many genes, the underlying
-genetic mechanism of schizophrenia is still poorly understood.
-
-Abstract : 
 
 This study performed a secondary analysis of the publicly available RNA-sequence
 data from individuals with schizophrenia and individuals who were not affected
